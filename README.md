@@ -1,6 +1,3 @@
-本人的学习笔记,持续更新!!!
-
-k Java
 ## Java基础
 
 ## Java高级
@@ -24,8 +21,3 @@ k Java
 
 ### ranger
 - [[ranger学习笔记]]: 这是ranger的学习笔记
-
-
-
-
-
